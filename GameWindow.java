@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 
 public class GameWindow {
     private JFrame jframe;
-    public GameWindow() {
+    public GameWindow(GamePanel gamePanel) {
         
         jframe = new JFrame();
         
